@@ -1,5 +1,7 @@
 # pyTokAPI Module
 
+![](https://img.shields.io/pypi/v/pyTokAPI) ![](https://img.shields.io/date/1619916821) ![](https://img.shields.io/pypi/pyversions/pytokapi) ![](https://img.shields.io/pypi/wheel/pytokapi) ![](https://img.shields.io/github/license/cryptosbyte/pytokapi)
+
 This is a Python module that uses the `requests` package to send a request to TikTok's API, which 
 returns the data from the API.
 
