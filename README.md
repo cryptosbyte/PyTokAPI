@@ -15,7 +15,7 @@ Example:
 import pytokapi
 
 response = pytokapi.TikTok().getInfo(
-  "https://www.tiktok.com/@emily.dobson/video/6957418361617681669"
+  "https://www.tiktok.com/@..................../video/.........................."
 )
 
 print(info['version'])
