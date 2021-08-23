@@ -26,8 +26,10 @@ When the `.getInfo()` function is called, it takes only 1 string parameter, whic
 
 > Side Note: If the string is not given in the function's parameter, Python3 will automatically give an error. Additionally if the video URL is invalid, the system will throw an error as well (from the code).
 
-```json
+```js
 // "req" is a variable (which is the request of the API) that is equal to a JSON response.
+const req = [...] 
+{
   "version": req["version"],
   "title": req["title"],
   "author": {
